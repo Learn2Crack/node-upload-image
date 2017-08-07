@@ -18,3 +18,6 @@ npm install
 ```
 node app
 ```
+## Postman config to Test
+
+<img src="https://www.learn2crack.com/wp-content/uploads/2017/08/postman-upload-image.png"/>
