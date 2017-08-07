@@ -1,0 +1,16 @@
+{
+  "name": "node-image-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj Amal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "file-type": "^5.2.0",
+    "multer": "^1.3.0"
+  }
+}
